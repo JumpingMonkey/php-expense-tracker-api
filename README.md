@@ -2,6 +2,8 @@
 
 A RESTful API for tracking personal expenses with authentication, filtering, and categorization capabilities.
 
+> Project based on [roadmap.sh Expense Tracker API](https://roadmap.sh/projects/expense-tracker-api)
+
 ## Features
 
 - User authentication with JWT
